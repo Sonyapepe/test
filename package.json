@@ -4,7 +4,7 @@
   "description": "Smart Contract",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rupikz/smart-contract-task.git"
+    "url": "git+https://github.com/Sonyapepe/test.git"
   },
   "scripts": {
     "deploy:local": "hardhat run scripts/deploy.ts --network localhost",
